@@ -1,0 +1,10 @@
+00030 Taylor Gray Supervisor 42 6200000 +928765432109 123-4567-89012 elm-lane
+00031 Riley Parker Recruitment-Specialist 29 5400000 +929876543210 456-7890-12345 oak-drive
+00032 Morgan Bailey Training-Coordinator 36 5800000 +927294653893 789-0123-45678 maple-street
+00033 Avery Morgan Compensation-Analyst 33 5600000 +926739134564 234-5678-90123 pine-avenue
+00034 Logan Kelly Benefits-Administrator 39 6000000 +921234567890 345-6789-01234 willow-avenue
+00035 Alex Jordan HR-Generalist 28 5200000 +926543210987 678-9012-34567 cedar-road
+00036 Casey Carter Employee-Relations-Manager 45 6500000 +927654321098 901-2345-67890 pine-lane
+00037 Quinn Murphy HR-Coordinator 31 5500000 +928765432109 123-4567-89012 elm-drive
+00038 Avery Ellis Payroll-Administrator 34 5700000 +929876543210 456-7890-12345 oak-street
+00039 Hayden Brooks HR-Assisstant 26 5000000 +927294653893 789-4578-16482 maple-road

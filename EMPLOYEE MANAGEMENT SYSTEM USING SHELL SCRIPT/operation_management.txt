@@ -1,0 +1,9 @@
+00022 Avery West Supply-Chain-Analyst 40 6100000 +928765432109 345-6789-01234 elm-street
+00023 Riley Cooper Warehouse-Supervisor 37 5800000 +929876543210 456-7890-12345 oak-avenue
+00024 Jordan Kennedy Production-Planner 42 6300000 +921234567890 789-0123-45678 maple-road
+00025 Quinn Hayes Procurement-Specialist 35 5900000 +926543210987 234-5678-90123 pine-lane
+00026 Parker Murphy Inventory-Manager 44 6500000 +927654321098 567-8901-23456 birch-drive
+00027 Hayden Evans Quality-Assurance-Analyst 38 6000000 +926543210987 345-6789-01234 willow-street
+00028 Cameron Bell Operations-Coordinator 31 5500000 +929876543210 678-9012-34567 cedar-avenue
+00029 Morgan Reed Facilities-Manager 45 6600000 +927654321098 901-2345-67890 pine-road
+00021 Harper Griffin Logistics-Coordinator 33 570000 +926739134564 643-1345-85963 yarshfor-street

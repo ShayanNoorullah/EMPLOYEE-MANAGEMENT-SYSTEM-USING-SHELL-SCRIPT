@@ -1,0 +1,10 @@
+00040 Ryan Patel Supervisor 44 6500000 +927294653893 311-3456-54643 marylborn-street
+00041 Harper Gonzalez Systems-Analyst 30 5200000 +926739134564 643-1345-85963 yarshfor-street
+00042 Jordan Carter Network-Administrator 38 5900000 +928765432109 345-6789-01234 elm-street
+00043 Taylor Cooper Database-Administrator 35 5700000 +929876543210 456-7890-12345 oak-avenue
+00044 Logan Richardson IT-Specialist 41 6200000 +921234567890 789-0123-45678 maple-road
+00045 Avery Brooks Cybersecurity-Analyst 29 5400000 +926543210987 234-5678-90123 pine-lane
+00046 Casey Murphy IT-Support-Technician 33 5600000 +927654321098 567-8901-23456 birch-drive
+00047 Quinn Ellis Web-Developer 37 6000000 +928765432109 311-3456-54643 marylborn-street
+00048 Hayden Parker IT-Project-Manager 42 6300000 +926739134564 643-1345-85963 yarshfor-street
+00049 Riley Griffin Software-Engineer 31 5500000 +927294653893 311-3456-54643 marylborn-street
